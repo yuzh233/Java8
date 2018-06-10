@@ -1,10 +1,8 @@
 package d_streamAPI;
 
-import com.sun.org.apache.xerces.internal.xs.StringList;
 import org.junit.Test;
 
 import java.util.*;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
